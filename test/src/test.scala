@@ -1,3 +1,5 @@
+import scala.collection.mutable.AnyRefMap.AnyRefMapBuilder
+
 object test extends AnyRef {
 
   def main(args: Array[String]) = {
