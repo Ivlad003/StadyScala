@@ -17,6 +17,7 @@ object test extends AnyRef {
     println(three)
 
     println(str)
+    println(str)
 
     val addOne = (x: Int) => x + 1
 
